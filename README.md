@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oyugi-JR
-- 👀 I’m interested in software and web developemnt
-- 🌱 I’m currently learning Python, django, node.js, Java and many more languages
+- 👀 I’m interested in software and web developemnt, alongside Data Science
+- 🌱 I’m currently learning Python, django, node.js, Java, PowerBI,  and many more languages
 - 💞️ I’m looking to collaborate on any open repository 
 - 📫 How to reach me: Direct - +254 711 299 737, email - patrickop.op@gmail.com 
 
