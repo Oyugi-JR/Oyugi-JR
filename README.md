@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oyugi-JR
+- 👋 Hi, I’m @Oyugi-JR,
 - 👀 I’m interested in software and web developemnt, alongside Data Science
 - 🌱 I’m currently learning Python, django, node.js, Java, PowerBI,  and many more languages
 - 💞️ I’m looking to collaborate on any open repository 
