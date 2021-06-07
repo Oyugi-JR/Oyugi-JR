@@ -2,7 +2,7 @@
 - 👀 I’m interested in software and web developemnt, alongside Data Science
 - 🌱 I’m currently learning Python, Java, PowerBI,  and many more languages & softwares
 - 💞️ I’m looking to collaborate on any open repository 
-- 📫 How to reach me: Direct - +254 703 908 509, email - patrickop.op@gmail.com 
+- 📫 How to reach me: Direct - +254 711 299 737, email - patrickop.op@gmail.com 
 
 <!---
 Oyugi-JR/Oyugi-JR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
