@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick, @Oyugi-JR,
 - 👀 I’m interested in Software and Web developement, alongside Data Science
 - 🌱 I’m currently learning Python, Java, PowerBI, CSS, and more languages & softwares
-- 💞️ I’m looking to collaborate on any open repository 
+- 💞️ I’m looking into collaborating on any open repository 
 - 📫 Direct - +254 711 299 737, email - patrickop.op@gmail.com 
 
 <!---
